@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains implementations of popular sorting and searching algorithms in both Python and Java. The algorithms included are Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Binary Search. Each algorithm is explained in detail below.
+This repository contains implementations of popular sorting and searching algorithms in Javascript. The algorithms included are Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Binary Search. Each algorithm is explained in detail below.
 
 ## Table of Contents
 
